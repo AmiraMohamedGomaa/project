@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="darkblue">#050c3b</color>
+    <color name="white">#ffffff</color>
+    <color name="kashmer">#e3cbb6</color>
+    <color name="nbety">#5f1532</color>
+    <color name="topy">#b65b01</color>
+    <color name="lightblue">#146c8b</color>
+    <color name="babyblue">#08aac6</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+</resources>
