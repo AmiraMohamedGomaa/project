@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity  {
     private void getQuestionResponce() {
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl( "https://opentdb.com/api_count.php?" )
+                .baseUrl( "https://opentdb.com/api.php?" )
                 .addConverterFactory( GsonConverterFactory.create() ).build();
 
         Api_Interface api_interface = retrofit.create( Api_Interface.class );

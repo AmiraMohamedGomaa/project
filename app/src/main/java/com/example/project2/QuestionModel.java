@@ -74,5 +74,4 @@ public class QuestionModel {
     public void setIncorrectAnswers(List<String> incorrectAnswers) {
         this.incorrectAnswers = incorrectAnswers;
     }
-
 }
